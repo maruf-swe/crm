@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Deenis Ivy.iml" filepath="$PROJECT_DIR$/.idea/Deenis Ivy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python Practice/problem-solving/URI/.idea/URI.iml" filepath="$PROJECT_DIR$/../../Python Practice/problem-solving/URI/.idea/URI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python Practice/ds-algorithms/.idea/ds-algorithms.iml" filepath="$PROJECT_DIR$/../../Python Practice/ds-algorithms/.idea/ds-algorithms.iml" />
+    </modules>
+  </component>
+</project>
