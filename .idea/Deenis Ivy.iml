@@ -7,4 +7,7 @@
     <orderEntry type="module" module-name="ds-algorithms" />
     <orderEntry type="module" module-name="URI" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+  </component>
 </module>
